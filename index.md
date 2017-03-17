@@ -32,6 +32,9 @@ dwodjqihdudwhquhuwqhuhwd
 [Link](url) and ![Image](src)
 ```
 
+![Image](http://www.lovibond.com/wp-content/themes/Tintometer%202012/images/walle.jpg)
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
